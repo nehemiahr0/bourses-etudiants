@@ -1,0 +1,10 @@
+# Fichiers sensibles
+src/main/webapp/WEB-INF/web.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build
+build/
